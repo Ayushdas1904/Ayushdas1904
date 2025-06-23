@@ -15,10 +15,10 @@
 
 ---
 
-<!-- <p align="center"> 
+<p align="center"> 
   Visitor Count:<br>
   <img src= "https://profile-counter.glitch.me/Ayushdas1904/count.svg" />
-</p> -->
+</p>
 
 ## 🌐 Connect with Me
 
