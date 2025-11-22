@@ -42,6 +42,12 @@
 
 ---
 
+## Holopin Badges (under Hacktoberfest 2025)
+
+[![An image of @ayushdas1904's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushdas1904)](https://holopin.io/@ayushdas1904)
+
+---
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushdas1904&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
